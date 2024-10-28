@@ -1,0 +1,563 @@
+[
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK26836",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-01-25",
+        "debtor": {
+            "first_name": "dawn",
+            "last_name": "grezeszak",
+            "date_of_birth": "1980-05-29",
+            "zip_code": "67601",
+            "city_name": "hays",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "310 e 16th st",
+            "phone_numbers": [
+                "3032427721"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "dawn",
+            "last_name": "grezeszak",
+            "date_of_birth": "1980-05-29",
+            "zip_code": "67601",
+            "city_name": "hays",
+            "state_name": "ks",
+            "address_line_1": "310 e 16th st",
+            "phone_numbers": [
+                "3032427721"
+            ]
+        },
+        "provider_name": "natashaq werth np",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95913",
+        "procedure_description": " nrv cndj test 13/> studies",
+        "provider_location_name": "hays",
+        "initial_account_balance": "1071.00",
+        "current_account_balance": "654.69",
+        "amount_paid_to_date": "417.31",
+        "payments": [
+            {
+                "payment_amount": "417.31",
+                "transaction_amount": "417.31",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK27107A1",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-03-15",
+        "debtor": {
+            "first_name": "joseph",
+            "last_name": "gaytan",
+            "date_of_birth": "1994-06-09",
+            "zip_code": "67801",
+            "city_name": "dodge city",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "2407 6th ave",
+            "phone_numbers": [
+                "3038279269"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "joseph",
+            "last_name": "gaytan",
+            "date_of_birth": "1994-06-09",
+            "zip_code": "67801",
+            "city_name": "dodge city",
+            "state_name": "ks",
+            "address_line_1": "2407 6th ave",
+            "phone_numbers": [
+                "3038279269"
+            ]
+        },
+        "provider_name": "thomas frimpong do",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95911",
+        "procedure_description": "nrv cndj test 9-10 studies",
+        "provider_location_name": "hays",
+        "initial_account_balance": "966.00",
+        "current_account_balance": "359.06",
+        "amount_paid_to_date": "606.94",
+        "payments": [
+            {
+                "payment_amount": "606.94",
+                "transaction_amount": "606.94",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK1934",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-03-19",
+        "debtor": {
+            "first_name": "RAY",
+            "last_name": "laskowski",
+            "date_of_birth": "1966-05-21",
+            "zip_code": "67401",
+            "city_name": "salina",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "1608 n 5th",
+            "phone_numbers": [
+                "7858206933"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "RAY",
+            "last_name": "laskowski",
+            "date_of_birth": "1966-05-21",
+            "zip_code": "67401",
+            "city_name": "salina",
+            "state_name": "ks",
+            "address_line_1": "1608 n 5th",
+            "phone_numbers": [
+                "7858206933"
+            ]
+        },
+        "provider_name": "lucas cosens dpm",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95912",
+        "procedure_description": "nrv cndj test 11-12 studies",
+        "provider_location_name": "salina",
+        "initial_account_balance": "930.00",
+        "current_account_balance": "137.44",
+        "amount_paid_to_date": "792.56",
+        "payments": [
+            {
+                "payment_amount": "792.56",
+                "transaction_amount": "792.56",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK26961",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-03-13",
+        "debtor": {
+            "first_name": "Ashiley",
+            "last_name": "barnes",
+            "date_of_birth": "1986-08-17",
+            "zip_code": "67502",
+            "city_name": "hutchinson",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "428 w 24th ave",
+            "phone_numbers": [
+                "6209315581"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "Ashiley",
+            "last_name": "barnes",
+            "date_of_birth": "1986-08-17",
+            "zip_code": "67502",
+            "city_name": "hutchinson",
+            "state_name": "ks",
+            "address_line_1": "428 w 24th ave",
+            "phone_numbers": [
+                "6209315581"
+            ]
+        },
+        "provider_name": "martha mc cabe aprn",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95911",
+        "procedure_description": "nrv cndj test 9-10 studies",
+        "provider_location_name": "hutchinson",
+        "initial_account_balance": "966.00",
+        "current_account_balance": "238.40",
+        "amount_paid_to_date": "727.60",
+        "payments": [
+            {
+                "payment_amount": "727.60",
+                "transaction_amount": "727.60",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK27114",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-03-19",
+        "debtor": {
+            "first_name": "matthew",
+            "last_name": "berg",
+            "date_of_birth": "1985-05-20",
+            "zip_code": "67401",
+            "city_name": "salina",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "607 maple ave",
+            "phone_numbers": [
+                "6203826626"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "matthew",
+            "last_name": "berg",
+            "date_of_birth": "1985-05-20",
+            "zip_code": "67401",
+            "city_name": "salina",
+            "state_name": "ks",
+            "address_line_1": "607 maple ave",
+            "phone_numbers": [
+                "6203826626"
+            ]
+        },
+        "provider_name": "kyle elmore md",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95913",
+        "procedure_description": "nrv cndj test 13/> studies",
+        "provider_location_name": "salina",
+        "initial_account_balance": "1071.00",
+        "current_account_balance": "654.69",
+        "amount_paid_to_date": "416.31",
+        "payments": [
+            {
+                "payment_amount": "416.31",
+                "transaction_amount": "416.31",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDWRI",
+        "account_number": "KCK26672",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-01-02",
+        "debtor": {
+            "first_name": "larry",
+            "last_name": "griffin",
+            "date_of_birth": "1955-06-13",
+            "zip_code": "67501",
+            "city_name": "hutchinson",
+            "state_name": "ks",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "1613 n baker st apt c",
+            "phone_numbers": [
+                "7854589692"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "larry",
+            "last_name": "griffin",
+            "date_of_birth": "1955-06-13",
+            "zip_code": "67501",
+            "city_name": "hutchinson",
+            "state_name": "ks",
+            "address_line_1": "1613 n baker st apt c",
+            "phone_numbers": [
+                "7854589692"
+            ]
+        },
+        "provider_name": "lucas cosens dpm",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "95911",
+        "procedure_description": "nrv cndj test 9-10 studies",
+        "provider_location_name": "salina",
+        "initial_account_balance": "660.00",
+        "current_account_balance": "243.00",
+        "amount_paid_to_date": "416.14",
+        "payments": [
+            {
+                "payment_amount": "416.14",
+                "transaction_amount": "416.14",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDRWI",
+        "account_number": "KCK14914",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-09-23",
+        "debtor": {
+            "first_name": "NICOLE",
+            "last_name": "HAUCK",
+            "date_of_birth": "1986-12-02",
+            "zip_code": "67420",
+            "city_name": "BELOIT",
+            "state_name": "KS",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "222 N CHESTNUT STREET",
+            "phone_numbers": [
+                "7854130133"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "NICOLE",
+            "last_name": "HAUCK",
+            "date_of_birth": "1986-12-02",
+            "zip_code": "67420",
+            "city_name": "BELOIT",
+            "state_name": "KS",
+            "address_line_1": "222 N CHESTNUT STREET",
+            "phone_numbers": [
+                "7854130133"
+            ]
+        },
+        "provider_name": "ALLISONS HAYENES MD",
+        "ar_debt_id": "KCK14914A1",
+        "procedure_code": "99244",
+        "procedure_description": "OFF/OP CNSLTJ NEW/EST MOD 40",
+        "provider_location_name": "BELOIT",
+        "initial_account_balance": "1071",
+        "current_account_balance": "",
+        "amount_paid_to_date": "",
+        "payments": [
+            {
+                "payment_amount": "",
+                "transaction_amount": "",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDRWI",
+        "account_number": "KCK27225",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-04-04",
+        "debtor": {
+            "first_name": "BONNIE",
+            "last_name": "JONES",
+            "date_of_birth": "1970-08-28",
+            "zip_code": "67401",
+            "city_name": "SALINA",
+            "state_name": "KS",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "676 S 3RD STREET",
+            "phone_numbers": [
+                "7858193169"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "BONNIE",
+            "last_name": "JONES",
+            "date_of_birth": "1970-08-28",
+            "zip_code": "67401",
+            "city_name": "SALINA",
+            "state_name": "KS",
+            "address_line_1": "676 S 3RD STREET",
+            "phone_numbers": [
+                "7858193169"
+            ]
+        },
+        "provider_name": "DUSTY SWENDSON DO",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "99244",
+        "procedure_description": "OFF/OF CNSLTJ NEW/EST MOD 40",
+        "provider_location_name": "SALINA",
+        "initial_account_balance": "966.00",
+        "current_account_balance": "966.00",
+        "amount_paid_to_date": "0.00",
+        "payments": [
+            {
+                "payment_amount": "0.00",
+                "transaction_amount": "0.00",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDRWI",
+        "account_number": "KCK27019",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-04-22",
+        "debtor": {
+            "first_name": "MARKUS",
+            "last_name": "CHECKETTS",
+            "date_of_birth": "1970-04-01",
+            "zip_code": "67430",
+            "city_name": "CAWKER CITY",
+            "state_name": "KS",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "PO BOX 73",
+            "phone_numbers": [
+                "7856207058"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "MARKUS",
+            "last_name": "CHECKETTS",
+            "date_of_birth": "1970-04-01",
+            "zip_code": "67430",
+            "city_name": "SALINA",
+            "state_name": "KS",
+            "address_line_1": "PO BOX 73",
+            "phone_numbers": [
+                "7856207058"
+            ]
+        },
+        "provider_name": "BARBARA BROWN DO",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "99204",
+        "procedure_description": "OFF/OP CNSLTJ NEW MOD 45 MIN",
+        "provider_location_name": "SALINA",
+        "initial_account_balance": "1005.00",
+        "current_account_balance": "45.00",
+        "amount_paid_to_date": "960.00",
+        "payments": [
+            {
+                "payment_amount": "960.00",
+                "transaction_amount": "960.00",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDRWI",
+        "account_number": "KCK26836",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-01-25",
+        "debtor": {
+            "first_name": "DAWN",
+            "last_name": "GREZESZAK",
+            "date_of_birth": "1980-05-29",
+            "zip_code": "67601",
+            "city_name": "HAYES",
+            "state_name": "KS",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "310 E 16TH ST",
+            "phone_numbers": [
+                "3032427721"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "DAWN",
+            "last_name": "GREZESZAK",
+            "date_of_birth": "1980-05-29",
+            "zip_code": "67601",
+            "city_name": "HAYES",
+            "state_name": "KS",
+            "address_line_1": "310 E 16TH ST",
+            "phone_numbers": [
+                "3032427721"
+            ]
+        },
+        "provider_name": "NATASHA WERTH NP",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "99244",
+        "procedure_description": "OFF/OF CNSLTJ NEW/EST MOD 40",
+        "provider_location_name": "HAYES",
+        "initial_account_balance": "1071.00",
+        "current_account_balance": "654.69",
+        "amount_paid_to_date": "416.31",
+        "payments": [
+            {
+                "payment_amount": "416.31",
+                "transaction_amount": "416.31",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    },
+    {
+        "client_id": "DDRWI",
+        "account_number": "KCK27107",
+        "date_listed": "2024-09-26",
+        "service_date": "2024-03-15",
+        "debtor": {
+            "first_name": "JOSEPH",
+            "last_name": "GAYTAN",
+            "date_of_birth": "1994-06-09",
+            "zip_code": "67801",
+            "city_name": "DODGE CITY",
+            "state_name": "KS",
+            "ssn": "",
+            "employer": "",
+            "address_line_1": "1904 MARA LANE APT 4",
+            "phone_numbers": [
+                "3038279269"
+            ]
+        },
+        "responsible_person": {
+            "first_name": "JOSEPH",
+            "last_name": "GAYTAN",
+            "date_of_birth": "1994-06-09",
+            "zip_code": "67801",
+            "city_name": "DODGE CITY",
+            "state_name": "KS",
+            "address_line_1": "1904 MARA LANE APT 4",
+            "phone_numbers": [
+                "3038279269"
+            ]
+        },
+        "provider_name": "THOMAS FRIMPONG DO",
+        "ar_debt_id": "1265450480",
+        "procedure_code": "99244",
+        "procedure_description": "OFF/OF CNSLTJ NEW/EST MOD 40",
+        "provider_location_name": "HAYES",
+        "initial_account_balance": "966.00",
+        "current_account_balance": "359.06",
+        "amount_paid_to_date": "606.94",
+        "payments": [
+            {
+                "payment_amount": "606.94",
+                "transaction_amount": "606.94",
+                "payment_type": "prepayment",
+                "transaction_type": "prepayment",
+                "transaction_status": "paid",
+                "payment_date": "2024-09-26"
+            }
+        ],
+        "debt_notes": {}
+    }
+]

@@ -1,0 +1,51 @@
+{
+    "client_id": "5104",
+    "account_number": "16268",
+    "date_listed": "2024-09-20",
+    "service_date": "2024-03-04",
+    "debtor": {
+        "first_name": "ALLAN",
+        "last_name": " ZEITVOGEL",
+        "date_of_birth": "1966-01-12",
+        "zip_code": "66441",
+        "city_name": "Junction city",
+        "state_name": "KS",
+        "ssn": "549659053",
+        "employer": "",
+        "address_line_1": "10557 j hill road",
+        "phone_numbers": [
+            "7854103163"
+        ]
+    },
+    "responsible_person": {
+        "first_name": "ALLAN",
+        "last_name": "ZEITVOGEL",
+        "date_of_birth": "1966-01-12",
+        "zip_code": "66441",
+        "city_name": "Junction city",
+        "state_name": "KS",
+        "address_line_1": "10557 j hill road",
+        "phone_numbers": [
+            "7854103163"
+        ]
+    },
+    "provider_name": " Scott d iversen",
+    "ar_debt_id": "",
+    "procedure_code": "98941",
+    "procedure_description": "Cmt/3-4 body regions",
+    "provider_location_name": "",
+    "initial_account_balance": "$165.00",
+    "current_account_balance": "75.00",
+    "amount_paid_to_date": "$90.00",
+    "payments": [
+        {
+            "payment_amount": "$165.00",
+            "transaction_amount": "$75.00",
+            "payment_type": "",
+            "transaction_type": "",
+            "transaction_status": "",
+            "payment_date": "2024-03-04"
+        }
+    ],
+    "debt_notes": {}
+}

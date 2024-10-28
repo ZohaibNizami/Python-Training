@@ -1,0 +1,51 @@
+{
+    "client_id": "5104",
+    "account_number": "16651",
+    "date_listed": "2024-09-20",
+    "service_date": "2024-04-19",
+    "debtor": {
+        "first_name": "randy",
+        "last_name": "molt",
+        "date_of_birth": "2002-12-26",
+        "zip_code": "66502",
+        "city_name": "manhattan",
+        "state_name": "KS",
+        "ssn": "507452887",
+        "employer": "",
+        "address_line_1": "1203 thurston st apt 8",
+        "phone_numbers": [
+            "7153153053"
+        ]
+    },
+    "responsible_person": {
+        "first_name": "randy",
+        "last_name": "molt",
+        "date_of_birth": "2002-12-26",
+        "zip_code": "66502",
+        "city_name": "manhattan",
+        "state_name": "KS",
+        "address_line_1": "1203 thurston st apt 8",
+        "phone_numbers": [
+            "7153153053"
+        ]
+    },
+    "provider_name": "Sean A sorell",
+    "ar_debt_id": "",
+    "procedure_code": "98941",
+    "procedure_description": "cmt/3-4 body regions",
+    "provider_location_name": "",
+    "initial_account_balance": "$405.00",
+    "current_account_balance": "$117.00",
+    "amount_paid_to_date": "$288.00",
+    "payments": [
+        {
+            "payment_amount": "$405.00",
+            "transaction_amount": "$117.00",
+            "payment_type": "",
+            "transaction_type": "",
+            "transaction_status": "",
+            "payment_date": "2024-04-19"
+        }
+    ],
+    "debt_notes": {}
+}

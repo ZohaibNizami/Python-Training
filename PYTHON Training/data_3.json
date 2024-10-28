@@ -1,0 +1,51 @@
+{
+    "client_id": "5104",
+    "account_number": "16686",
+    "date_listed": "2024-09-20",
+    "service_date": "2024-04-10",
+    "debtor": {
+        "first_name": "Charles",
+        "last_name": " davis",
+        "date_of_birth": "2004-08-12",
+        "zip_code": "66502",
+        "city_name": "manhattan",
+        "state_name": "KS",
+        "ssn": "498213009",
+        "employer": "",
+        "address_line_1": "1100 fremont st",
+        "phone_numbers": [
+            "8167261538"
+        ]
+    },
+    "responsible_person": {
+        "first_name": "Charles",
+        "last_name": " davis",
+        "date_of_birth": "2004-08-12",
+        "zip_code": "66502",
+        "city_name": "manhattan",
+        "state_name": "KS",
+        "address_line_1": "1100 fremont st",
+        "phone_numbers": [
+            "8167261538"
+        ]
+    },
+    "provider_name": "sean a. soreel",
+    "ar_debt_id": "",
+    "procedure_code": "g0283",
+    "procedure_description": "esi va/umr",
+    "provider_location_name": "",
+    "initial_account_balance": "$200",
+    "current_account_balance": "$90",
+    "amount_paid_to_date": "$110",
+    "payments": [
+        {
+            "payment_amount": "$200.00",
+            "transaction_amount": "$90.00",
+            "payment_type": "",
+            "transaction_type": "",
+            "transaction_status": "",
+            "payment_date": "2024-04-10"
+        }
+    ],
+    "debt_notes": {}
+}
